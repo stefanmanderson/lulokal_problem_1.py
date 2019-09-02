@@ -1,7 +1,7 @@
 location = {'x' : 0, 'y' : 0}
 
 while True:
-    movement = input()
+    movement = input().lower()
     if movement == '':
         break
     elif movement == 'up':
