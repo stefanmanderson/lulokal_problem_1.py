@@ -1,3 +1,5 @@
+# Stefan Manuel Anderson - stefananderson06@gmail.com
+
 my_strings = input()
 
 my_strings_split = my_strings.split(",")
